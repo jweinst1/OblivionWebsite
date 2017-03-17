@@ -3,10 +3,15 @@
  */
 
 var __OblivionTargetSVG = document.getElementById("OblivionTargetSVG");
+var __OblivionStdOut = document.getElementById("stdout");
 var CODEINPUT = document.getElementById("codeinput");
 CODEINPUT.addEventListener("keyup", function (e) {
-    __OblivionTargetSVG.innerHTML = Oblivion.Compile(CODEINPUT.value);
+    var result = Oblivion.Compile(CODEINPUT.value, 2);
+    __OblivionTargetSVG.innerHTML = result[1];
+    __OblivionStdOut.value = result[0];
 });
 CODEINPUT.addEventListener("change", function (e) {
-    __OblivionTargetSVG.innerHTML = Oblivion.Compile(CODEINPUT.value);
+    var result = Oblivion.Compile(CODEINPUT.value, 2);
+    __OblivionTargetSVG.innerHTML = result[1];
+    __OblivionStdOut.value = result[0];
 });

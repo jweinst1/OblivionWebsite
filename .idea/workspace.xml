@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f25f107e-a821-4dd0-a3f4-e9e7938e2d88" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Playground.js" afterPath="$PROJECT_DIR$/js/Playground.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Oblivion.js" afterPath="$PROJECT_DIR$/js/Oblivion.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="101" column="72" lean-forward="true" selection-start-line="101" selection-start-column="72" selection-end-line="101" selection-end-column="72" />
+            <state relative-caret-position="256">
+              <caret line="85" column="29" lean-forward="false" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
               <folding>
                 <element signature="e#926#931#0" expanded="true" />
                 <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -46,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Playground.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Playground.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Playground.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -56,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Oblivion.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Oblivion.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/Oblivion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6862">
-              <caret line="3394" column="3" lean-forward="false" selection-start-line="3394" selection-start-column="3" selection-end-line="3394" selection-end-column="3" />
+            <state relative-caret-position="240">
+              <caret line="977" column="28" lean-forward="false" selection-start-line="977" selection-start-column="28" selection-end-line="977" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -102,9 +101,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/Oblivion.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/Playground.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/Oblivion.js" />
       </list>
     </option>
   </component>
@@ -279,12 +278,12 @@
       <updated>1489131507270</updated>
       <workItem from="1489131510400" duration="7504000" />
       <workItem from="1489719058902" duration="559000" />
-      <workItem from="1489723677647" duration="1703000" />
+      <workItem from="1489723677647" duration="2828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9766000" />
+    <option name="totallyTimeSpent" value="10891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="23" width="1206" height="685" extended-state="0" />
@@ -455,18 +454,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Oblivion.js">
+    <entry file="file://$PROJECT_DIR$/js/Playground.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6862">
-          <caret line="3394" column="3" lean-forward="false" selection-start-line="3394" selection-start-column="3" selection-end-line="3394" selection-end-column="3" />
+        <state relative-caret-position="180">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="101" column="72" lean-forward="true" selection-start-line="101" selection-start-column="72" selection-end-line="101" selection-end-column="72" />
+        <state relative-caret-position="256">
+          <caret line="85" column="29" lean-forward="false" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
           <folding>
             <element signature="e#926#931#0" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -475,10 +474,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Playground.js">
+    <entry file="file://$PROJECT_DIR$/js/Oblivion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="240">
+          <caret line="977" column="28" lean-forward="false" selection-start-line="977" selection-start-column="28" selection-end-line="977" selection-end-column="28" />
           <folding />
         </state>
       </provider>

@@ -15,3 +15,9 @@ CODEINPUT.addEventListener("change", function (e) {
     __OblivionTargetSVG.innerHTML = result[1];
     __OblivionStdOut.value = result[0];
 });
+
+window.addEventListener("DOMContentLoaded", function () {
+    var result = Oblivion.Compile(CODEINPUT.value, 2);
+    __OblivionTargetSVG.innerHTML = result[1];
+    __OblivionStdOut.value = result[0];
+});
